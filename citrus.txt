@@ -1,1 +1,2 @@
 Oranges are orange.
+Lemons are yellow.
